@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿using Foundation.SceneManage.ScriptableObjects;
+using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityTemplateProjects.Foundation.Event;
 
 namespace Foundation.EditorTools
 {
