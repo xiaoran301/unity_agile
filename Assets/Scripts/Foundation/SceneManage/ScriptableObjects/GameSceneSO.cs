@@ -1,8 +1,7 @@
-﻿using UnityEngine;
-using UnityEngine.AddressableAssets;
+﻿using UnityEngine.AddressableAssets;
 using UnityTemplateProjects.Foundation.Base;
 
-namespace UnityTemplateProjects.Foundation.SceneManager
+namespace Foundation.SceneManage.ScriptableObjects
 {
 	public class GameSceneSO : DescriptionBaseSO
 	{

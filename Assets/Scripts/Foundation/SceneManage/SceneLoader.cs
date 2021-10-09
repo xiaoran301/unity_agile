@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Foundation.SceneManage.ScriptableObjects;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
@@ -7,7 +8,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using UnityTemplateProjects.Foundation.Event;
 
-namespace UnityTemplateProjects.Foundation.SceneManager
+namespace Foundation.SceneManage
 {
     public class SceneLoader : MonoBehaviour
     {

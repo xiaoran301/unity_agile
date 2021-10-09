@@ -1,7 +1,7 @@
-﻿using UnityEngine;
+﻿using Foundation.SceneManage.ScriptableObjects;
+using UnityEngine;
 using UnityEngine.Events;
 using UnityTemplateProjects.Foundation.Base;
-using UnityTemplateProjects.Foundation.SceneManager;
 
 namespace UnityTemplateProjects.Foundation.Event
 {

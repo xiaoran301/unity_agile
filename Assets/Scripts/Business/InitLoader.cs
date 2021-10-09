@@ -1,12 +1,12 @@
-﻿using UnityEngine;
+﻿using Foundation.SceneManage.ScriptableObjects;
+using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.ResourceManagement.ResourceProviders;
 using UnityEngine.SceneManagement;
 using UnityTemplateProjects.Foundation.Event;
-using UnityTemplateProjects.Foundation.SceneManager;
 
-namespace UnityTemplateProjects
+namespace Business
 {
     public class InitLoader : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityTemplateProjects.Foundation.SceneManager
+namespace Foundation.SceneManage.ScriptableObjects
 {
     [CreateAssetMenu(fileName = "Level",menuName = "ScriptableObjectData/Level")]
     public class LevelSO:GameSceneSO

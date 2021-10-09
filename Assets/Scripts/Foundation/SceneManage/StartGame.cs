@@ -1,8 +1,8 @@
-﻿using System;
+﻿using Foundation.SceneManage.ScriptableObjects;
 using UnityEngine;
 using UnityTemplateProjects.Foundation.Event;
 
-namespace UnityTemplateProjects.Foundation.SceneManager
+namespace Foundation.SceneManage
 {
     public class StartGame : MonoBehaviour
     {
