@@ -41,6 +41,22 @@ MonoBehaviour:
     m_Address: Assets/ScriptableObjectData/Channels/LoadMainMenu_Channel.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 9832a9629e9ffbc4ab4cfc69187fb1c5
+    m_Address: Assets/ScriptableObjectData/Channels/LoadColdStartup_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dbe57b33a3b3324fb7e109870cd0430
+    m_Address: Assets/ScriptableObjectData/Channels/LoadLevel_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeff2c0d6ce80354aaf46d04f1877612
+    m_Address: Assets/ScriptableObjectData/Channels/OnSceneReady_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a46bcdd0d72c3d4a9113fe0a7f66ee4
+    m_Address: Assets/ScriptableObjectData/Channels/StartNewGame_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4525d55cf2955fd41ba1f20b47809b3e, type: 2}
   m_SchemaSet:

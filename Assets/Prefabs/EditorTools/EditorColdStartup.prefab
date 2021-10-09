@@ -43,11 +43,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41f3c2c25600479f9fddf19c8ca1c2db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _thisSceneSO: {fileID: 0}
-  _persistentManagersSO: {fileID: 0}
+  _thisSceneSO: {fileID: 11400000, guid: 343ff37e9b53424479f1eca4d4de0fb5, type: 2}
+  _persistentManagersSO: {fileID: 11400000, guid: d29f23e42241ba743b08e0126e264245, type: 2}
   _notifyColdStartupChannel:
-    m_AssetGUID: 
+    m_AssetGUID: 9832a9629e9ffbc4ab4cfc69187fb1c5
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
-  _onSceneReadyChannel: {fileID: 0}
+  _onSceneReadyChannel: {fileID: 11400000, guid: eeff2c0d6ce80354aaf46d04f1877612, type: 2}
