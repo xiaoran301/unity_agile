@@ -1,6 +1,22 @@
 # unity_agile
 one simple agile foundation
 
+## Roadmap
+    场景管理
+    Addressable
+    UI开发
+
+    热更
+        TS接入
+        资源
+        流程
+    
+    图形foundation
+        特效
+        shader
+        flow field path
+
+
 ## scene 用途
     init: 启动场景 
     PersistentManagers: 持久化场景 
