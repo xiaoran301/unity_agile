@@ -10,16 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: LevelScenes
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: LevelScenes
   m_Data:
     m_SerializedData: []
-  m_GUID: 47c89bf319556574680a865dbb3bb415
-  m_SerializeEntries: []
+  m_GUID: b6e09231b5fc46148adf461769cc9d95
+  m_SerializeEntries:
+  - m_GUID: d1f38185115b49741b9ac4e42478215e
+    m_Address: Assets/Scenes/Levels/Level1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca2a9e2afae0fcf4ea9028799d9a82cb
+    m_Address: Assets/Scenes/Levels/Level2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4525d55cf2955fd41ba1f20b47809b3e, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 3609c4bbd96bea3468ffcbad6c4cb055, type: 2}
-    - {fileID: 11400000, guid: 7c83291e6b6aeb44cb4db3d1de332ce3, type: 2}
+    - {fileID: 11400000, guid: 5763af433953c424c9b23f983d4f76c2, type: 2}
+    - {fileID: 11400000, guid: 2406b0d55ba7d8e4fba3d676dfacdcd7, type: 2}

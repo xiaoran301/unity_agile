@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScriptableObjectData
+  m_EditorClassIdentifier: 
+  m_GroupName: ScriptableObjectData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4d9c699fc34154145bff43beab012fa5
+  m_SerializeEntries:
+  - m_GUID: c9689f4c48bcc3d48a26483d0642dd54
+    m_Address: Assets/ScriptableObjectData/Channels/LoadMainMenu_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9832a9629e9ffbc4ab4cfc69187fb1c5
+    m_Address: Assets/ScriptableObjectData/Channels/LoadColdStartup_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dbe57b33a3b3324fb7e109870cd0430
+    m_Address: Assets/ScriptableObjectData/Channels/LoadLevel_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeff2c0d6ce80354aaf46d04f1877612
+    m_Address: Assets/ScriptableObjectData/Channels/OnSceneReady_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a46bcdd0d72c3d4a9113fe0a7f66ee4
+    m_Address: Assets/ScriptableObjectData/Channels/StartNewGame_Channel.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4525d55cf2955fd41ba1f20b47809b3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f207bb623692be4899627367172a1fd, type: 2}
+    - {fileID: 11400000, guid: 2e34e48c211fd704194d38d5d600be2b, type: 2}
